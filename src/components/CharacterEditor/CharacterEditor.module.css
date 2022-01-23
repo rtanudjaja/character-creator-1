@@ -4,8 +4,6 @@
 }
 
 .maxWidthWrapper {
-  position: relative;
-  width: 100%;
 }
 
 .header {
@@ -27,9 +25,8 @@
 }
 
 .characterWrapper {
+  position: fixed;
   width: 35%;
-  position: absolute;
-  right: 0px;
 }
 
 .controlColumn {
